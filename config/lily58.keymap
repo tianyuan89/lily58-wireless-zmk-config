@@ -43,7 +43,7 @@
 &kp TILDE        &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2     &bt BT_SEL 3  &bt BT_SEL 4                    &trans  &trans  &trans  &trans  &trans         &kp C_VOLUME_UP
 &none            &none           &kp UP_ARROW    &none            &none         &none                           &none   &none   &none   &none   &trans         &kp C_VOL_DN
 &none            &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &none         &none                           &none   &none   &none   &none   &none          &kp K_MUTE
-&kp PRINTSCREEN  &trans          &trans          &trans           &trans        &trans        &trans    &trans  &trans  &none   &none   &none   &kp BACKSLASH  &kp C_PLAY_PAUSE
+&kp PRINTSCREEN  &trans          &trans          &trans           &trans        &trans        &trans    &trans  &trans  &none   &none   &none   &kp BACKSLASH  &trans
                                                  &trans           &trans        &trans        &trans    &trans  &trans  &trans  &trans
             >;
         };
